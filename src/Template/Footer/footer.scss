@@ -1,0 +1,28 @@
+.footer {
+    border-top: 1px solid #d2d2d7;
+    background: #212529;
+    color: #868e96;
+    height: 100px;
+    text-Align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    &__social {
+        height: 100%;
+        display: flex;
+        justify-Content: center;
+        align-items: center;
+        cursor: pointer;
+
+        svg {
+            height: auto;
+            width: 24px !important;
+            padding-Right: 10px;
+
+            &:hover {
+                color: deepskyblue;
+            }
+        }
+    }
+}
