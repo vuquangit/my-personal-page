@@ -17,10 +17,10 @@ const Footer = () => {
         <Grid item xs={12} sm={2}>
           <div className="footer__social">
             <div>
-              <FontAwesomeIcon icon={faFacebookSquare} />
+              <FontAwesomeIcon icon={faFacebookSquare} title="Facebook" />
             </div>
             <div>
-              <FontAwesomeIcon icon={faInstagram} />
+              <FontAwesomeIcon icon={faInstagram} title="Instagram" />
             </div>
           </div>
         </Grid>

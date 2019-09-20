@@ -1,0 +1,30 @@
+{
+    "IDUser": 123456789,
+    "FirstName": "Vũ",
+    "MiddleName": "Văn",
+    "LastName": "Quang",
+    "NickName": "Gió",
+    "AvatarImage": "https://live.staticflickr.com/65535/48762358196_9562da39b8_k.jpg",
+    "AvatarCover": [
+        {
+            "id": 1,
+            "image": "https://live.staticflickr.com/65535/48759818101_0953bcb4ef_k.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://live.staticflickr.com/65535/48759503408_8bbf081b73_k.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://live.staticflickr.com/65535/48551744416_6011880bc1_z.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://live.staticflickr.com/65535/48551598916_12c3872fbc_k.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://live.staticflickr.com/65535/48551884832_40d6f980c3_k.jpg"
+        }
+    ]
+}
